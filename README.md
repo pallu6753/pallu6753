@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Pallavi R Banner" width="100%" />
+  <img src="<img width="2125" height="533" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/87f8fd22-4888-4aa2-bff5-524f6393c837" />
+" alt="Pallavi R Banner" width="100%" />
 </p>
 <div align="center">
 
