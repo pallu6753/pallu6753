@@ -145,10 +145,15 @@ Python • SQL • FastAPI • React • TypeScript • Machine Learning • Pow
 
 # 📊 GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallu6753&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallu6753&theme=tokyonight" width="100%" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallu6753&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pallu6753&theme=tokyonight&utcOffset=5.5)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallu6753&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pallu6753&theme=tokyonight&utcOffset=5.5" width="49%" />
+</p>
+
 
 ---
 
@@ -182,10 +187,10 @@ Python • SQL • FastAPI • React • TypeScript • Machine Learning • Pow
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pallu6753&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/pallu6753">
+    <img src="https://komarev.com/ghpvc/?username=pallu6753&label=Visitors&style=flat-square&color=7aa2f7"/>
+  </a>
 </p>
